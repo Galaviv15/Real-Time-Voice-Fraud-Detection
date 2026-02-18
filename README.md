@@ -33,6 +33,3 @@ Due to privacy restrictions on real English fraud calls, the project uses the **
 ## Authors
 - Daniel Drori
 - Gal Aviv
-
-## Resources
-See the poster and demo materials in the repository (QR code on poster).
